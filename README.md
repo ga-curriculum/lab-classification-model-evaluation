@@ -17,4 +17,4 @@ In this lab, we're going to focus on steps exploring data, building models and e
 There are three links you may find important:
 - [A set of chronic kidney disease (CKD) data and other biological factors](./chronic_kidney_disease_full.csv).
 - [The CKD data dictionary](./chronic_kidney_disease_header.txt).
-- [An article comparing the use of k-nearest neighbors and support vector machines on predicting CKD](./Chronic Kidney Disease.pdf).
+- [An article comparing the use of k-nearest neighbors and support vector machines on predicting CKD](./chronic_kidney_disease.pdf).
