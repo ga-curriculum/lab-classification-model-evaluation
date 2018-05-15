@@ -13,3 +13,8 @@ We can sketch out the data science process as follows:
 6. Answer the problem.
 
 In this lab, we're going to focus on steps exploring data, building models and evaluating the models we build.
+
+There are three links you may find important:
+- [A set of chronic kidney disease (CKD) data and other biological factors](./chronic_kidney_disease_full.csv).
+- [The CKD data dictionary](./chronic_kidney_disease_header.txt).
+- [An article comparing the use of $k$-nearest neighbors and support vector machines on predicting CKD](./Chronic\ Kidney\ Disease.pdf).
