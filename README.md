@@ -2,7 +2,7 @@
 Week 4, Lab 2: Classification Model Evaluation
 > Author: Matt Brems
 
-> Predicting Left-Handedness from Psychological Factors
+> Predicting Chronic Kidney Disease (CKD)
 
 We can sketch out the data science process as follows:
 1. Define the problem.
@@ -12,4 +12,4 @@ We can sketch out the data science process as follows:
 5. Evaluate the model.
 6. Answer the problem.
 
-We'll walk through a full data science problem in this lab. Specifically, we'll use a survey of psychological factors to predict whether or not individuals are left-handed. Along the way, we'll compare multiple classification models and see which best serve our needs.
+In this lab, we're going to focus on steps exploring data, building models and evaluating the models we build.
